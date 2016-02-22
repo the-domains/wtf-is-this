@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[WTF is this]]></title>
         <description><![CDATA[WTF is this]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wtf-is-this/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 19:01:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 19:01:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wtf-is-this/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Caption</p>]]></description>
+            <link>https://thegrid.ai/wtf-is-this/c85daaa9-c2a1-40a2-8718-9b20d8fe3bdf/index.html</link>
+            <guid isPermaLink="false">c85daaa9-c2a1-40a2-8718-9b20d8fe3bdf</guid>
+            <pubDate>Mon, 22 Feb 2016 19:01:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f73acdf-3c51-4657-890e-b2e618115339.jpg">]]></description>
-            <link>undefined1a8cc76a-bab6-4930-971c-5dbb5770fb3a/index.html</link>
+            <link>https://thegrid.ai/wtf-is-this/1a8cc76a-bab6-4930-971c-5dbb5770fb3a/index.html</link>
             <guid isPermaLink="false">1a8cc76a-bab6-4930-971c-5dbb5770fb3a</guid>
             <pubDate>Mon, 22 Feb 2016 19:01:07 GMT</pubDate>
         </item>
