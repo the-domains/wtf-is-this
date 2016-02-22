@@ -1,0 +1,28 @@
+name: WTF is this
+favicon: null
+layout_spectrum: 0.7277355547994375
+typography_spectrum: 0.8065444712992758
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9952739235013723
+  lightness: 0.7894811755977571
+  saturation: 0.34481128491461277
+  rhythmicContrast: 0.8027304979041219
+purpose: []
